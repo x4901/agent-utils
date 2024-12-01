@@ -1,0 +1,14 @@
+[project]
+name = "agent-utils"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standard]>=0.115.5",
+    "openai>=1.55.3",
+    "pydantic-settings>=2.6.1",
+    "pydub>=0.25.1",
+    "python-dotenv>=1.0.1",
+    "requests>=2.32.3",
+]
