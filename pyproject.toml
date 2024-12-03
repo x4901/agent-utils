@@ -1,7 +1,8 @@
 [project]
 name = "agent-utils"
 version = "0.1.0"
-description = "Add your description here"
+classifiers = ["Private :: Do Not Upload"]
+description = "Utility APIs for agents"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
