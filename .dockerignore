@@ -1,0 +1,16 @@
+# Git
+.git
+.gitignore
+
+# Python
+.python-version
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Docker
+Dockerfile
+
+# Other
+.ropeproject
